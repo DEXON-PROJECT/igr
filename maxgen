@@ -1,1 +1,1 @@
-local hwid = game:GetService("RbxAnalyticsService"):GetClientId() local userId = game.Players.LocalPlayer.UserId loadstring(game:HttpGet("https://igr-backen.vercel.app/api/Scripts?Id=KEY-87J0NDAU&hwid=" .. hwid .. "&userId=" .. userId))()
+local hwid = game:GetService("RbxAnalyticsService"):GetClientId() local userId = game.Players.LocalPlayer.UserId loadstring(game:HttpGet("https://igr-backen.vercel.app/api/Scripts?Id=KEY-RE9T9KSJ&hwid=" .. hwid .. "&userId=" .. userId))()
